@@ -13,7 +13,7 @@ int main(){
     for(int i =1;i<=rows;i++){
         print_spaces(i);
         print_stars(i);
-        printf("\n")
+        printf("\n");
     }
     return 0;
 }
