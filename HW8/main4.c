@@ -1,4 +1,3 @@
-double float f =10.5;
 round_func(float f){
     float f =float f*2+1
     int answer =float f/2
